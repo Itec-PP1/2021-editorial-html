@@ -1,3 +1,3 @@
-Editorial by HTML5 UP
+Html demo para probar Github - Page Editorial by HTML5 UP
 
 Terminar de completar....
